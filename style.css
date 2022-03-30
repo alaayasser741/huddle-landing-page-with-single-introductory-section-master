@@ -61,7 +61,7 @@ section img{
 section .text{
     flex-basis: 30%;
 }
-section .text h2{
+section .text h1{
     font-family: 'Poppins', sans-serif;
     color: #fff;
     font-size: 40px;
@@ -99,7 +99,7 @@ section .text a{
     section .text{
         text-align: center;
     }
-    section .text h2{
+    section .text h1{
         margin-top: 70px;
         font-size: 25px;
     }
